@@ -1,0 +1,3 @@
+/home/cqfrank/Graphics/homeWrok/PA7-1/PA7/Assignment7/build/CMakeFiles/rebuild_cache.dir
+/home/cqfrank/Graphics/homeWrok/PA7-1/PA7/Assignment7/build/CMakeFiles/edit_cache.dir
+/home/cqfrank/Graphics/homeWrok/PA7-1/PA7/Assignment7/build/CMakeFiles/RayTracing.dir
